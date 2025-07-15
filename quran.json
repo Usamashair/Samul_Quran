@@ -1,0 +1,14 @@
+{
+  "surahs": [
+    {
+      "id": 1,
+      "name": "Al-Fatihah",
+      "englishName": "The Opening",
+      "ayahs": [
+        { "numberInSurah": 1, "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ" }
+        
+      ]
+    }
+    
+  ]
+}
